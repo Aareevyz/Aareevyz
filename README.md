@@ -22,7 +22,7 @@ I recently completed an intensive Data Engineering bootcamp at **Westride**, whe
 | **Languages** | Python (Pandas, PySpark), SQL |
 | **Data Pipelines** | AWS Step-Function |
 | **Big Data & Cloud** | Spark, AWS |
-| **DevOps & IaC** |  Git |
+| **Version Control** |  Git |
 | **Databases** | PostgreSQL, MySQL, MariaDB |
 | **Visualization** | PowerBI |
 
