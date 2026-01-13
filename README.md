@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Alive (Ar-leave) 👋
 
-<!--
-**Aareevyz/Aareevyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏗️ From Project Engineering to Data Engineering
+I am a former **Project Engineer** transitioning into the world of **Data Engineering**. With a solid background in engineering workflows and project management, 
+I’ve combined my problem-solving roots with modern data technologies to build robust, scalable data infrastructures.
 
-Here are some ideas to get you started:
+I recently completed an intensive Data Engineering bootcamp at **Westride**, where I honed my skills in building end-to-end data pipelines and managing cloud-native data environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Why Me? (The Engineering Advantage)
+* **Engineering Mindset:** Applying rigorous project standards and optimization logic to data pipelines.
+* **Problem Solver:** Expert in identifying bottlenecks and streamlining complex workflows.
+* **Continuous Learner:** Fast-tracked my DE skills through Westride's hands-on curriculum.
+
+---
+
+### 🛠️ My Tech Stack
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Python (Pandas, PySpark), SQL |
+| **Data Pipelines** | AWS Step-Function |
+| **Big Data & Cloud** | Spark, AWS |
+| **DevOps & IaC** |  Git |
+| **Databases** | PostgreSQL, MySQL, MariaDB |
+| **Visualization** | PowerBI |
+
+---
+
+### 🚀 Featured Projects (Bootcamp & Personal)
+
+#### 🌦️ [Hybrid Data Pipeline: Weather x Sales](https://github.com/Aareevyz/hybrid-pipeline-weather-influence-sale_data)
+* **Concept:** Bridging internal sales data with external weather APIs to find business correlations.
+* **Highlight:** Demonstrates hybrid ingestion and data modeling skills.
+* **Tech:** Python, API Integration, PostgreSQL, Spark.
+
+---
+
+### 📊 GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=Aareevyz&show_icons=true&theme=radical&hide_border=true)
+
+---
+
+### 📫 Let's Connect!
+- 💼 **LinkedIn:** []
+- 📧 **Email:** [aalve.klym@gmail.com]
