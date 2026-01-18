@@ -23,7 +23,7 @@ I recently completed an intensive Data Engineering bootcamp at **Westride**, whe
 | **Data Pipelines** | AWS Step-Function |
 | **Big Data & Cloud** | Spark, AWS |
 | **Version Control** |  Git |
-| **Databases** | PostgreSQL, MySQL, MariaDB |
+| **Databases** | PostgreSQL, MySQL, Dbeaver |
 | **Visualization** | PowerBI |
 
 ---
